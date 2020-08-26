@@ -7,3 +7,31 @@ body {
   margin-right: auto;
   background-color: lightgray;
 }
+
+h1 {
+  width: 60%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#personal-info {
+  display: flex;
+  flex-direction: row;
+}
+
+aside {
+  width: 15%;
+  padding-left: 15px;
+  background-color: white;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+#info-of-me {
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+}
