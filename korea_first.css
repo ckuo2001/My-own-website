@@ -100,4 +100,25 @@ img {
 #shopping {
   border-bottom: 20px solid white;
   margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer p {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+footer p a {
+  text-decoration: none;
 }
