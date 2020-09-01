@@ -1,0 +1,126 @@
+body {
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 28px;
+  line-height: 1.6;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgray;
+  margin-bottom: 20px;
+}
+
+h1 {
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.red {
+  color: lightcoral;
+}
+
+.blue {
+  color: deepskyblue;
+}
+
+img {
+  width: 20%;
+}
+
+#second-day {
+  background-color: white;
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+  border-top: 10px solid white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#second-day article {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+#Dongdaemun-stream {
+  display: flex;
+}
+
+#stream-img {
+  border: 10px solid lightgray;
+}
+
+#text-one {
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin-left: 10px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+#chill {
+  text-align: center;
+  margin-block-start: 0.25em;
+  margin-block-end: 0.25em;
+  margin-left: 10px;
+}
+
+#Dongdaemun-lunch {
+  display: flex;
+  margin-top: 30px;
+}
+
+#text-two {
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 20px;
+  margin-right: 10px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+#lunch-img {
+  border: 10px solid lightgray;
+}
+
+#cheese {
+  display: flex;
+  text-align: center;
+}
+
+#cheese img {
+  border: 10px solid lightgray;
+}
+
+#text-three {
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+#text-four {
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
