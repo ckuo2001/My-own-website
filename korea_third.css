@@ -1,0 +1,132 @@
+body {
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 28px;
+  line-height: 1.6;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightgray;
+  margin-bottom: 20px;
+}
+
+h1 {
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+  border-top: 10px solid white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+img {
+  width: 20%;
+  border: 10px solid lightgray;
+}
+
+.red {
+  color: lightcoral;
+}
+
+.blue {
+  color: deepskyblue;
+}
+
+#third-day {
+  background-color: white;
+  border-radius: 10px;
+}
+
+#third-day article {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#intro-uni {
+  display: flex;
+}
+
+#uni-texts {
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin-left: 10px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+#lunch {
+  display: flex;
+  margin-top: 30px;
+}
+
+#bulbap {
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin-right: 10px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+#hongdae-text {
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+#finish {
+  text-align: center;
+  border-top: 10px solid white;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#finish div {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+footer p {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
+
+footer p a {
+  text-decoration: none;
+}
